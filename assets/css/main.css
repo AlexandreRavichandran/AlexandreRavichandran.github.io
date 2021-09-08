@@ -2643,11 +2643,12 @@ input, select, textarea {
 					padding: 3em 0 1em 0 ;
 					background-color: transparent !important;
 					border-top: solid 2px #fff;
-					width: 100%;
+					width: 100%;	
 				}
 
 					.features li:first-child {
 						border-top: 0;
+						padding-top:0px;
 					}
 
 			}
@@ -3992,12 +3993,19 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 
+
 	.projectLinks{
+		display:flex;
+		justify-content: center;
+	}
+	.projectLinks a{
 		padding: 15px 23px;
+		display:block;
 		border-radius: 15px;
 		background-color: #21b2a6;
 		text-decoration: none;
-		
+		margin-bottom: 20px;
+		width:150px;
 	}
 
 	.language{
