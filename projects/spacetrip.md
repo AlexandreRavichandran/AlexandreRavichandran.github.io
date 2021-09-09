@@ -4,6 +4,7 @@ permalink: /spacetrip
 title: Spacetrip
 image: oui
 description: Site de reservation de voyages pour l'espace
+image: spacetrip
 ---
 
 <h3>Présentation</h3>

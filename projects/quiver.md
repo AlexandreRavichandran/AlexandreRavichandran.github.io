@@ -3,6 +3,7 @@ layout: project
 permalink: /quiver
 title: Quiver
 description: Clone du site Quora
+image: quiver
 ---
 
 <h3>Présentation</h3>

@@ -3,6 +3,7 @@ layout: project
 permalink: /pomodoro-timer
 title: Pomodoro-timer
 description: Minuteur pour l'application de la technique POMODORO
+image: pomodoro
 ---
 
 <h3>Présentation</h3>
