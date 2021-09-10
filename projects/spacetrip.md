@@ -8,7 +8,7 @@ image: spacetrip
 ---
 
 <h3>Présentation</h3>
-<p> Le projet Spacetrip est le premier projet que j'ai réalisé avec Symfony. L'idée de réaliser un site de type e-commerce m'est tout de suite venu à l'esprit, car c'est un type de site qui reunit tout les notions que j'ai appris durant mon apprentissage, c'est à dire la mise en place du CRUD, les requetes API, la gestion de formulaires, le tout en ayant un code propre et un site sécurisé. Voulant me spécialiser sur le coté Back-end, j'ai passé beaucoup moins de temps sur le coté Front, ainsi que sur l'aspect esthetique du site, pour me concentrer uniquement sur le bon fonctionnement des fonctionnalités.</p>
+<p> Le projet Spacetrip est le premier projet que j'ai réalisé avec Symfony. L'idée de réaliser un site de type e-commerce m'est tout de suite venu à l'esprit, car c'est un type de site qui réunit toutes les notions que j'ai appris durant mon apprentissage, c'est à dire la mise en place du CRUD, les requêtes API, la gestion de formulaires, le tout en ayant un code propre et un site sécurisé. Voulant me spécialiser sur le coté Back-end, j'ai passé beaucoup moins de temps sur le coté Front, ainsi que sur l'aspect esthétique du site, pour me concentrer uniquement sur le bon fonctionnement des fonctionnalités.</p>
 <p>Merci à <a target="_blank" href="https://www.behance.net/samitcourt5917">Samir Abdi</a> pour la réalisation du logo de ce projet.</p>
 <h3>Liens</h3>
 <p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/Spacetrip" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
@@ -16,7 +16,7 @@ image: spacetrip
 <hr />
 <h3> Fonctionnalités </h3>
 <ul>
-    <li>Réservation d'un voyage existant proposé par l'agence de voyage, de l'etape du choix de voyage jusqu'au paiement et livraison du billet de reservation</li>
+    <li>Réservation d'un voyage existant proposé par l'agence de voyage, de l'étape du choix de voyage jusqu'au paiement et livraison du billet de réservation</li>
     <li>Creation d'un voyage personnalisé</li>
     <li>Authentification/inscription</li>       
     <li>Mise en place d'un espace commentaires</li>     
