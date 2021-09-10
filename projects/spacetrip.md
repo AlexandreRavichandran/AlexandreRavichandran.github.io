@@ -36,6 +36,10 @@ image: spacetrip
         <li>Symfony 5</li>
         <li>Base de donnée MySQL</li>
     </ul>
+    <ul>
+        <h5>Deploiement:</h5>
+        <li>Heroku</li>
+    </ul>
 </div>
 <div style="display:flex;justify-content:center">
     <ul>
