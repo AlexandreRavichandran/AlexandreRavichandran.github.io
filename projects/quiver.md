@@ -23,7 +23,7 @@ image: quiver
 </ul>
 
 <h3> Technologies utilisés </h3>
-<div style="display:flex;justify-content:space-around;">
+<div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
         <h5>Intégration/Front-end</h5>
         <li>HTML/CSS</li>

@@ -24,7 +24,7 @@ image: spacetrip
 </ul>
 
 <h3> Technologies utilisés </h3>
-<div style="display:flex;justify-content:space-around;">
+<div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
         <h5>Intégration/Front-end</h5>
         <li>HTML/CSS</li>
@@ -37,16 +37,15 @@ image: spacetrip
         <li>Base de donnée MySQL</li>
     </ul>
     <ul>
-        <h5>Deploiement:</h5>
-        <li>Heroku</li>
-    </ul>
-</div>
-<div style="display:flex;justify-content:center">
-    <ul>
         <h5>API utilisés</h5>
         <li>API de paiement Paypal</li>
         <li>API de méteo OpenWeatherAPI</li>
         <li>API Google maps</li>
         <li>API d'une base de données des planètes existants API-le-systeme-solaire</li>
     </ul>
+    <ul>
+        <h5>Deploiement:</h5>
+        <li>Heroku</li>
+    </ul>
 </div>
+
