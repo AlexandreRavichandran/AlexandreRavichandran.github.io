@@ -23,17 +23,17 @@ image: pomodoro
 <h3> Technologies utilisés </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end</h5>
+        <h5>Intégration/Front-end: </h5>
         <li>HTML/CSS</li>
         <li>Bootstrap</li>
         <li>Javascript</li>
     </ul>
     <ul>
-        <h5>Back-end:</h5>
+        <h5>Back-end: </h5>
         <li>PHP</li>
     </ul>
     <ul>
-        <h5>Deploiement:</h5>
+        <h5>Deploiement: </h5>
         <li>Heroku</li>
     </ul>
 </div>
