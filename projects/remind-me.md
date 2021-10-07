@@ -14,15 +14,16 @@ description: Application "Pense-bête" pour se constituer une liste de films à 
 <h3>Liens</h3>
 <p>Lien du code source de ce projet:</p>
 <ul>
-    <li>
+    <!-- <li>
         <p><i class="icon solid fa-desktop"></i>  Partie front-end : <a href="https://github.com/AlexandreRavichandran/Remind-me-frontend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
     </li>
     <li>
         <p><i class="icon solid fa-server"></i> Partie back-end : <a href="https://github.com/AlexandreRavichandran/Remind-me-backend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
-    </li>
+    </li> -->
 </ul>
-<p>Lien du projet: <a href="https://spacetrip-app.herokuapp.com/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
-<hr />
+<p> Ce projet est actuellement en cours. Un lien sera disponible dès sa publication.</p>
+<!-- <p>Lien du projet: <a href="https://spacetrip-app.herokuapp.com/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p> -->
+
 <h3> Fonctionnalités </h3>
 <ul>
     <li>Réservation d'un voyage existant proposé par l'agence de voyage, de l'étape du choix de voyage jusqu'au paiement et livraison du billet de réservation</li>
@@ -49,7 +50,7 @@ description: Application "Pense-bête" pour se constituer une liste de films à 
     </ul>
     <ul>
         <h5>API utilisés: </h5>
-        <li>API de Spotify</li>
+        <li>API de Deezer</li>
         <li>API de Google Books</li>
         <li>API de OMDB</li>
     </ul>
