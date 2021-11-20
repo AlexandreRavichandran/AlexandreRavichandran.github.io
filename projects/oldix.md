@@ -35,7 +35,7 @@ image: oldix
     </li>
 </ul> -->
 <p>Lien du projet: <a href="http://oldix.surge.sh/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
-<p>Lien de la partie back du projet: <a href="http://ec2-54-165-199-42.compute-1.amazonaws.com/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
+<p>Lien de la partie back du projet: <a href="http://ec2-34-197-140-229.compute-1.amazonaws.com/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
 <hr />
 <h3> Fonctionnalités </h3>
 <ul>
