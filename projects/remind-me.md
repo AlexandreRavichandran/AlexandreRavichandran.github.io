@@ -7,9 +7,9 @@ description: Application "Pense-bête" pour se constituer une liste de films à 
 ---
 
 <h3>Présentation</h3>
-<p>Ce projet est ma troisième experience avec Symfony. Ce projet est une application permettant de se constituer une liste de films à regarder, de livres à lire, et de musique à écouter, un peu comme un pense-bête. L'utilisateur pour s'inscrire et aura accès a une bibliotheque de films, livre et musique et pourra les ajouter à sa liste.</p>
-<p>Ce projet m'a permis de travailler sur la version API de Symfony, mais cela a également été l'occasion de me confronter à API Platform, un framework permettant de faciliter la création d'un API avec Symfony. J'ai également pu constuire un front avec Jekyll, un générateur de site web statiques (D'ailleurs, le site ou vous êtes actuellement a été construit avec Jekyll). Enfin, j'ai pu mettre en place la consommation de certains API officiels, comme celui de Deezer et celui de Google Books.</p>
-<p>Durant ce projet, j'ai pu apprendre le fonctionnement d'API Platform, et egalement pu mettre en place des tests unitaires afin de verifier le bon fonctionnement de chaque fonctionnalité de l'API. J'ai également tenu, comme <a href="/quiver"> mon précédent projet</a>, à respecter les standards de Symfony au niveau de la syntaxe.</p>
+<p>Ce projet est ma troisième expérience avec Symfony. Ce projet est une application permettant de se constituer une liste de films à regarder, de livres à lire et de musique à écouter, un peu comme un pense-bête. L'utilisateur pour s'inscrire et aura accès à une bibliothèque de films, livre et musique et pourra les ajouter à sa liste.</p>
+<p>Ce projet m'a permis de travailler sur la version API de Symfony, mais cela a également été l'occasion de me confronter à API Platform, un framework permettant de faciliter la création d'un API avec Symfony. J'ai également pu construire un front avec Jekyll, un générateur de site web statiques (D'ailleurs, le site où vous êtes actuellement a été construit avec Jekyll). Enfin, j'ai pu mettre en place la consommation de certains API officiels, comme celui de Deezer et celui de Google Books.</p>
+<p>Durant ce projet, j'ai pu apprendre le fonctionnement d'API Platform et également pu mettre en place des tests unitaires afin de vérifier le bon fonctionnement de chaque fonctionnalité de l'API. J'ai également tenu, comme <a href="/quiver"> mon précédent projet</a>, à respecter les standards de Symfony au niveau de la syntaxe.</p>
 <p>Merci à <a target="_blank" href="https://www.behance.net/samitcourt5917">Samir Abdi</a> pour la réalisation du logo de ce projet.</p>
 <h3>Liens</h3>
 <p>Lien du code source de ce projet:</p>
@@ -28,7 +28,7 @@ description: Application "Pense-bête" pour se constituer une liste de films à 
 <h3> Fonctionnalités </h3>
 <ul>
     <li>Recherche d'un film, album, musique, livre</li>
-    <li>Accès en détail aux info du média cherché (extrait d'une musique recherchée, resumé d'un film, résumé d'un livre...)
+    <li>Accès en détail aux info du média cherché (extrait d'une musique recherchée, résumé d'un film, résumé d'un livre...)
     </li>     
     <li>Ajout/Suppression de médias dans sa liste personnelle de film, musique ou livre</li>
     <li>Authentification/inscription via JWT</li>

@@ -14,8 +14,8 @@ image: pomodoro
 <hr />
 <h3> Fonctionnalités </h3>
 <ul>
-    <li>Ulilisation de Pomodoro dits 'standards'</li>
-    <li>Ulilisation d'un pomodoro personnalisé, avec un choix du temps de travail, du temps de pause et du nombre de cycle</li>
+    <li>Utilisation de Pomodoro dit 'standards'</li>
+    <li>Utilisation d'un pomodoro personnalisé, avec un choix du temps de travail, du temps de pause et du nombre de cycle</li>
     <li>Suivi du déroulement du pomodoro, avec un affichage en direct du temps restant ainsi que le nombre de cycles restants</li>
     <li>Suspension du temps du pomodoro, ou arrêt du pomodoro</li>
 </ul>

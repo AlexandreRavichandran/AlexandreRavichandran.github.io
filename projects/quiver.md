@@ -7,9 +7,9 @@ image: quiver
 ---
 
 <h3>Présentation</h3>
-<p>Ce projet represente ma deuxième expérience avec Symfony. Ce projet s'inspire énormement de Quora, un forum ou certains utilisateurs peuvent poser une question et répondre aux questions que d'autres utilisateurs se posent. Ce site ressemblant enormement a un réseau social (avec un système de likes/dislike, de commentaires, d'abonnements..), j'ai trouvé que ce serait un bon challenge de reproduire le site de Quora, ainsi que toutes ses fonctionnalités. Je passe beaucoup de temps sur ce site, je connaissais donc la plupart des fonctionnalités que le clone doit avoir. J'ai également profité de ce nouveau projet pour essayer un autre framework CSS, TailwindCSS.</p>
-<p>Tout comme le précédent projet, je n'ai pas passé enormement de temps sur le front pour que le clone ressemble à 100% à l'original, afin de mettre l'accent sur les fonctionnalités coté Back.</p>
-<p>J'ai également fais attention au niveau de la syntaxe de mon code afin de respecter <a href="https://symfony.com/doc/current/best_practices.html">les bonnes pratiques de Symfony</a> comme par exemple les condition type Yoda, les injections de dépendances, le nom des variables... </p>
+<p>Ce projet représente ma deuxième expérience avec Symfony. Ce projet s'inspire énormément de Quora, un forum ou certains utilisateurs peuvent poser une question et répondre aux questions que d'autres utilisateurs se posent. Ce site ressemblant enormément a un réseau social (avec un système de "likes/dislikes", de commentaires, d'abonnements..), j'ai trouvé que ce serait un bon challenge de reproduire le site de Quora, ainsi que toutes ses fonctionnalités. Je passe beaucoup de temps sur ce site, je connaissais donc la plupart des fonctionnalités que le clone doit avoir. J'ai également profité de ce nouveau projet pour essayer un autre framework CSS, TailwindCSS.</p>
+<p>Tout comme le précédent projet, je n'ai pas passé enormement de temps sur le front pour que le clone ressemble à 100% à l'original, afin de mettre l'accent sur les fonctionnalités côté Back.</p>
+<p>J'ai également fait attention au niveau de la syntaxe de mon code afin de respecter <a href="https://symfony.com/doc/current/best_practices.html">les bonnes pratiques de Symfony comme par exemple les conditions type Yoda, les injections de dépendances, le nom des variables...</p>
 <h3>Liens</h3>
 <p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/Quiver" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
 <p>Lien du projet: <a href="https://app-quiver.herokuapp.com" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
@@ -18,9 +18,9 @@ image: quiver
 <ul>
     <li>Poser une question / Répondre à une question</li>
     <li>Système de like/dislike pour chaque réponse</li>
-    <li>Systeme de commentaire/sous-commentaires</li>
+    <li>Système de commentaire/sous-commentaires</li>
     <li>Authentification/inscription</li>
-    <li>Systeme d'abonnement à des espaces et des utilisateurs</li>
+    <li>Système d'abonnement à des espaces et des utilisateurs</li>
 </ul>
 
 <p>Les images de profil pour ce projet ont été générés par <a href="https://thispersondoesnotexist.com/">thispersondoesnotexist.</a></p>
