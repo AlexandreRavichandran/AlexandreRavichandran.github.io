@@ -12,7 +12,7 @@ image: spacetrip
 <p>Merci à <a target="_blank" href="https://www.behance.net/samitcourt5917">Samir Abdi</a> pour la réalisation du logo de ce projet.</p>
 <h3>Liens</h3>
 <p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/Spacetrip" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
-<p>Lien du projet: <a href="https://spacetrip-app.herokuapp.com/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
+<p>Lien du projet: <a href="https://spacetrip-app.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
 <hr />
 <h3> Fonctionnalités </h3>
 <ul>

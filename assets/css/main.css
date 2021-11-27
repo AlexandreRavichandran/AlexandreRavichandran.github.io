@@ -4028,3 +4028,7 @@ input, select, textarea {
 		margin-left: 5px;
 		font-weight: 600;
 	}
+	
+	.projectDirectLinks:hover{
+	opacity: 0.4;
+	}

@@ -23,8 +23,8 @@ image: remindme
     </li>
 </ul>
 
-<p>Lien du projet: <a href="https://alexandreravichandran.github.io/Remind-Me-frontend" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p>
-<p>Lien de la partie back du projet: <a href="https://remind-me-api.herokuapp.com/" target="_blank" class="icon brands"><i class="fas fa-rocket"></i></a></p> 
+<p>Lien du projet: <a href="https://alexandreravichandran.github.io/Remind-Me-frontend" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<p>Lien de la partie back du projet: <a href="https://remind-me-api.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p> 
 
 <h3> Fonctionnalités </h3>
 <ul>
