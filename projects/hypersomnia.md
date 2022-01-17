@@ -19,7 +19,7 @@ image: hypersomnia
 
 <ul>
     <li>Créer une collection de requêtes (requêtes et dossiers de requêtes)</li>
-    <li>Executer une requête GET, POST, PUT, PATCH, DELETE personnalisée (en-têtes personnalisées, token d'authentification)... et avoir une réponse</li>
+    <li>Executer une requête GET, POST, PUT, PATCH, DELETE personnalisée (en-têtes personnalisées, token d'authentification...) et avoir une réponse</li>
     <li>Authentification/inscription via JWT</li>
     <li>Importer/exporter une collection</li>
 </ul>
