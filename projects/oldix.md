@@ -34,8 +34,8 @@ image: oldix
         <p><i class="icon solid fa-server"></i> Partie back-end : <a href="#" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
     </li>
 </ul> -->
-<p>Lien du projet: <a href="http://oldix.surge.sh/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
-<p>Lien de la partie back du projet: <a href="http://ec2-34-197-140-229.compute-1.amazonaws.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<!-- <p>Lien du projet: <a href="#" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<p>Lien de la partie back du projet: <a href="#" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p> -->
 <hr />
 <h3> Fonctionnalités </h3>
 <ul>
