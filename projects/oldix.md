@@ -2,30 +2,31 @@
 layout: project
 permalink: /oldix
 title: Oldix
-description: Application centralisant des films libres de droits et permettant de les visionner
+description: Application which permits to get royalty-free films and watch them
 image: oldix
 ---
 
-<h3>Présentation</h3>
-<p>Ce projet a été réalisé dans le cadre de ma formation a O'Clock. Ce projet a été fait en équipe, avec deux développeurs front-end et trois développeurs back-end, dont moi.</p>
-<p>Oldix est une application qui centralise tous les films qui sont libres de droits et permet de les rechercher et les visionner. L'application permet de rechercher un ou des films par rapport à leurs catégories, leurs thèmes ou encore leurs langues. Il est également possible de demander à l'application de proposer une liste de 20 films au hasard. Oldix dispose également d'une partie "utilisateur" permettant de s'enregistrer et de pouvoir poster des commentaires sur les films, mais aussi de les noter. Enfin, il est possible d'ajouter en favori un film et de définir des catégories/thèmes préférés pour que l'application nous recommande des films par rapport à nos préférences.</p>
-<p>Ce projet est le premier projet que j'ai réalisé en équipe. La difficulté entre un projet réalisé seul et un projet réalisé en équipe réside surtout dans la synchronisation des tâches, mais aussi l'uniformité du code. Pour éviter ces difficultés, nous avions défini des standards de code ainsi que des standards de versionning GIT afin que le code soit uniforme et éviter au maximum les conflits. Après une petite période d'adaptation, l'équipe s'est vite habitué aux règles et le projet a pu être développé sans difficulté.</p>
-<p>Durant ce projet, j'ai travaillé <span style="font-weight:bold">uniquement</span> sur la partie back-end.</p>
-<h3>Equipe</h3>
+<h3>Presentation</h3>
+<p>This project has been made as part of the O'clock school. It was done as a team, with two front-end developers and three back-end developers, including me.</p>
+<p>Oldix is an application which gathers royalty-free films and permit to search and watch them. The application permits to search one or several movies by their categories, thematics or their languages. It's also possible for the application to generate a list of 20 random movies. Oldix has also an user section to register and post comments about the movie, and rate them. Finally, it's possible for the user to add a movie as favorite and define his favorite categories and thematics, so that the application can recommand movies related to the user's preferences.</p>
+<p>The project is the first project that I made with a team.The main difficulty between a project made alone and a project made with a team is the task synchronization, but also the uniformity of the code. To prevent these difficulties, we have set code standards and GIT versionning standards so that the code will be uniform and we can prevent code conflicts. After a short period of adaptation, the team quickly got used to the rules.</p>
+
+<p>For this project,I have worked <span style="font-weight:bold">only</span> on the back-end section.</p>
+<h3>Team</h3>
 <div style="display:flex;justify-content:space-around">
     <ul>
-        <h5>Equipe Back-end: </h5>
+        <h5>Back-end team: </h5>
         <li>Alexandre RAVICHANDRAN</li>
         <li>Corentin WAUCAMPT <a href="https://github.com/Corentin-W" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
         <li>Mathieu GILLET <a href="https://github.com/mgillet-dev" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
     </ul>
     <ul>
-        <h5>Equipe Front-end: </h5>
+        <h5>Front-end team: </h5>
         <li>Thomas MONNET <a href="https://github.com/ThomasMonnet" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
         <li>Matthieu DIAS <a href="https://github.com/MatthD7" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
     </ul>
 </div>
-<h3>Liens</h3>
+<h3>Links</h3>
 <!-- <ul>
     <li>
         <p><i class="icon solid fa-desktop"></i>  Partie front-end : <a href="#" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
@@ -37,34 +38,35 @@ image: oldix
 <!-- <p>Lien du projet: <a href="#" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
 <p>Lien de la partie back du projet: <a href="#" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p> -->
 <hr />
-<h3> Fonctionnalités </h3>
+<h3> Features </h3>
 <ul>
-    <li>Recherche de films par catégorie/thème/langue</li>
-    <li>Visionnage de films</li>
-    <li>Authentification/inscription</li>
-    <li>Ajout d'un film en favori</li>
-    <li>Ajout de commentaires/notes pour un film</li>
-    <li>Proposition de film par rapport aux préférences de l'utilisateur</li>
+    <li>Search movies by category/thematic/language</li>
+    <li>Watch movies</li>
+    <li>Authentication/registration</li>
+    <li>Add a movie as favorite</li>
+    <li>Add comment and rate for one movie</li>
+    <li>Recommandation of movies by the user's preference</li>
 </ul>
 
-<h3> Technologies utilisés </h3>
+<h3> Technologies used </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end: </h5>
+        <h5>Integration/Front-end: </h5>
         <li>HTML/CSS</li>
         <li>React</li>
     </ul>
     <ul>
         <h5>Back-end:</h5>
         <li>Symfony 5</li>
-        <li>Base de donnée MySQL</li>
+        <li>MySQL database</li>
     </ul>
     <ul>
-        <h5>API utilisés: </h5>
-        <li>API de OMDB</li>
+        <h5>API used: </h5>
+        <li>OMDB API</li>
     </ul>
     <ul>
-        <h5>Deploiement:</h5>
-        <li>AWS</li>
+        <h5>Deployment:</h5>
+        <li>Heroku</li>
+        <li>Surge</li>
     </ul>
 </div>

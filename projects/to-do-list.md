@@ -2,35 +2,35 @@
 layout: project
 permalink: /to-do-list
 title: To-do-list
-description: Application "To-do" pour concevoir une liste de tâches à faire
+description: Todo-list application to make a list of tasks to do
 image: flash-livraison
 ---
 
-<h3>Présentation</h3>
-<p>Ce projet est une to-do-list classique, qui permet de créer une tâche, l'editer, pour ensuite l'archiver une fois la tâche terminée, et enfin la supprimer. Il est également possible de filtrer l'affichage des tâches pour afficher seulement les tâches complètes, incomplètes ou archivées.</p>
-<p>Ce projet est mon premier projet en Angular. J'ai voulu apprendre Angular car, comme React, il permet de régler de nombreux problèmes et limites que j'avais quand je développais le front en javascript sans framework (ce qui est le cas pour tous mes projets jusque là) comme le système de routing, ou encore le système de composants qui permet de transmettre des données de manière beaucoup plus organisée.</p>
-<p>Il n'y a pas de serveur, les tâches crées disparaîtront donc au rechargement de la page. Cependant le code a été developpé de façon à ce que la connexion avec un serveur se fasse rapidement et efficacement.</p>
-<p>Ce projet a aussi été l'occasion de découvrir le déploiement avec Surge, qui permet de déployer un projet front très rapidement et gratuitement.</p>
-<h3>Liens</h3>
-<p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/todo-list" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
+<h3>Presentation</h3>
+<p>This project is a basic to-do-list, which permits to create a task, edit it, archive it once the task is done, and finally delete it. The user can also filter all tasks to display only finished tasks, current tasks and archived tasks</p>
+<p>This project is my first project in Angular. I wanted to learn Angular because, like React, it permits to solve a lot of issues that I faced when I did all my front-end sections without any projects on my previous projects, like the routing system, or component system which permits to transfer datas way more easier.</p>
+<p>There is no back-end for this project, all created tasks will disappear on refreshing the website. However, the code has been made so that the connection with a back-end can be easily implemented.</p>
+<p>This project was also an opportunity to discover deployment with Surge, which permits to deploy a front-end project quickly and with no cost.</p>
+<h3>Links</h3>
+<p>Link of the project's source code: <a href="https://github.com/AlexandreRavichandran/todo-list" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
 
-<p>Lien du projet: <a href="https://app-todo-list.surge.sh/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<p>Link of the project: <a href="https://app-todo-list.surge.sh/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
 <hr />
-<h3> Fonctionnalités </h3>
+<h3> Features </h3>
 <ul>
-    <li>Créer/Editer/Archiver/Supprimer une tâche</li>
-    <li>Filtrer la liste des tâches pour afficher les tâches complètes/incomplètes/archivées</li>
+    <li>Create/edit/archive/delete a task</li>
+    <li>Filter task list to show only completed/current/archived tasks</li>
 </ul>
 
-<h3> Technologies utilisés </h3>
+<h3> Used technologies </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end: </h5>
+        <h5>Integration/Front-end: </h5>
         <li>HTML/SASS</li>
         <li>Angular 13</li>
     </ul>
     <ul>
-        <h5>Deploiement:</h5>
+        <h5>Deployment:</h5>
         <li>Surge</li>
     </ul>
 </div>

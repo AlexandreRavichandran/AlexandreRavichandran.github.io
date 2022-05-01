@@ -2,32 +2,32 @@
 layout: project
 permalink: /quiver
 title: Quiver
-description: Clone du site Quora
+description: Clone of Quora website, a forum to ask and answer to some questions
 image: quiver
 ---
 
-<h3>Présentation</h3>
-<p>Ce projet représente ma deuxième expérience avec Symfony. Ce projet s'inspire énormément de Quora, un forum où certains utilisateurs peuvent poser une question et répondre aux questions que d'autres utilisateurs se posent. Ce site ressemblant énormément à un réseau social (avec un système de "likes/dislikes", de commentaires, d'abonnements..), j'ai trouvé que ce serait un bon challenge de reproduire le site de Quora, ainsi que toutes ses fonctionnalités. Je passe beaucoup de temps sur ce site, je connaissais donc la plupart des fonctionnalités que le clone doit avoir. J'ai également profité de ce nouveau projet pour essayer un autre framework CSS, TailwindCSS.</p>
-<p>Tout comme le précédent projet, je n'ai pas passé énormement de temps sur le front pour que le clone ressemble à 100% à l'original, afin de mettre l'accent sur les fonctionnalités côté Back.</p>
-<p>J'ai également fait attention au niveau de la syntaxe de mon code afin de respecter <a href="https://symfony.com/doc/current/best_practices.html">les bonnes pratiques de Symfony</a> comme par exemple les conditions type Yoda, les injections de dépendances, le nom des variables...</p>
-<h3>Liens</h3>
-<p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/Quiver" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
-<p>Lien du projet: <a href="https://app-quiver.herokuapp.com" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<h3>Presentation</h3>
+<p>This project is my second experience with Symfony. It's inspired a lot by Quora, a forum where users can ask a question and answer to other user's questions. Since this website looks like a social network (with a like/dislike system, comments, subscriptions...), I have found that it would be a good challenge to create a clone of Quora, with all its features. I spend a lot of time on this website, so I knew most of the features that the clone should have. I have also took the opportunity of this new project to try another CSS framework, TailwindCSS.</p>
+<p>Like the previous project, I didn't spend a lot of time on the front-end so that the clone look 100% like the original website, but I focused on the back-end features. </p>
+<p>I was also focused on the syntax of my code to respect <a href="https://symfony.com/doc/current/best_practices.html">Symfony good practices</a> for example Yoda conditions, dependancy injections, variable names...</p>
+<h3>Links</h3>
+<p>Link of the project's source code: <a href="https://github.com/AlexandreRavichandran/Quiver" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
+<p>Link of the project: <a href="https://app-quiver.herokuapp.com" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
 <hr />
-<h3> Fonctionnalités </h3>
+<h3> Features </h3>
 <ul>
-    <li>Poser une question / Répondre à une question</li>
-    <li>Système de like/dislike pour chaque réponse</li>
-    <li>Système de commentaire/sous-commentaires</li>
-    <li>Authentification/inscription</li>
-    <li>Système d'abonnement à des espaces et des utilisateurs</li>
+    <li>Ask a question / Answer to a question</li>
+    <li>Link/dislike system for answers</li>
+    <li>Comment/Sub-comments system</li>
+    <li>Authentication/registration</li>
+    <li>Subscribing system with spaces and between users</li>
 </ul>
 
-<p>Les images de profil pour ce projet ont été générés par <a href="https://thispersondoesnotexist.com/">thispersondoesnotexist.</a></p>
-<h3> Technologies utilisés </h3>
+<p>Profile pictures are generated thanks to <a href="https://thispersondoesnotexist.com/">thispersondoesnotexist.</a></p>
+<h3> Used technologies </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end</h5>
+        <h5>Integration/Front-end:</h5>
         <li>HTML/CSS</li>
         <li>Tailwind CSS</li>
         <li>Javascript</li>
@@ -35,10 +35,10 @@ image: quiver
     <ul>
         <h5>Back-end:</h5>
         <li>Symfony 5</li>
-        <li>Base de donnée MySQL</li>
+        <li>MySQL database</li>
     </ul>
     <ul>
-        <h5>Deploiement:</h5>
+        <h5>Deployment:</h5>
         <li>Heroku</li>
     </ul>
 </div>

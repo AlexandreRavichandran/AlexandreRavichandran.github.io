@@ -3,30 +3,30 @@ layout: project
 permalink: /spacetrip
 title: Spacetrip
 image: oui
-description: Site de reservation de voyages pour l'espace
+description: Website of a fake agency for space trips
 image: spacetrip
 ---
 
-<h3>Présentation</h3>
-<p>Le projet Spacetrip est le premier projet que j'ai réalisé avec Symfony. L'idée de réaliser un site de type e-commerce m'est tout de suite venu à l'esprit, car c'est un type de site qui réunit toutes les notions que j'ai appris durant mon apprentissage, c'est-à-dire la mise en place du CRUD, les requêtes API, la gestion de formulaires, le tout en ayant un code propre et un site sécurisé. Voulant me spécialiser sur le côté Back-end, j'ai passé beaucoup moins de temps sur le côté front, ainsi que sur l'aspect esthétique du site, pour me concentrer uniquement sur le bon fonctionnement des fonctionnalités.</p>
-<p>Merci à <a target="_blank" href="https://www.behance.net/samitcourt5917">Samir Abdi</a> pour la réalisation du logo de ce projet.</p>
-<h3>Liens</h3>
-<p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/Spacetrip" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
-<p>Lien du projet: <a href="https://spacetrip-app.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<h3>Presentation</h3>
+<p>This project is the first project that I made with Symfony. The idea to create a e-commerce type of website wes obvious to me because it's the kind of website that gather all development concepts that I discovered on my learnings, for example making a CRUD, API requests, form management, all this with maintaining a clean code and secured website. Since I wanted to specialize myself on the back-end section, I didn't spent much time on the front-end section and the design, but I focused on the good working of the features.</p>
+<p>Thanks to <a target="_blank" href="https://www.behance.net/samitcourt5917">Samir Abdi</a> for making the logo of the application.</p>
+<h3>Links</h3>
+<p>Link of the project's source code: <a href="https://github.com/AlexandreRavichandran/Spacetrip" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
+<p>Link of the project: <a href="https://spacetrip-app.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
 <hr />
-<h3> Fonctionnalités </h3>
+<h3> Features </h3>
 <ul>
-    <li>Réservation d'un voyage existant proposé par l'agence de voyage, de l'étape du choix de voyage jusqu'au paiement et livraison du billet de réservation</li>
-    <li>Création d'un voyage personnalisé</li>
-    <li>Authentification/inscription</li>       
-    <li>Mise en place d'un espace commentaire</li>     
-    <li>Mise en place d'un Back-Office pour créer des voyages, ajouter des vaisseaux à la base de données, ainsi que des destinations</li>       
+    <li>Make a reservation on a existing trip organized by the agency, from choosing trip step to the payment and reservation ticket delivery</li>
+    <li>Create a custom trip</li>
+    <li>Authentication/registration</li>       
+    <li>Comment section</li>     
+    <li>Back-office to manage trips, spacecrafts and destinations </li>
 </ul>
 
-<h3> Technologies utilisés </h3>
+<h3> Used technologies </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end: </h5>
+        <h5>Integration/Front-end: </h5>
         <li>HTML/CSS</li>
         <li>Bootstrap</li>
         <li>Javascript</li>
@@ -34,17 +34,17 @@ image: spacetrip
     <ul>
         <h5>Back-end: </h5>
         <li>Symfony 5</li>
-        <li>Base de donnée MySQL</li>
+        <li>MySQL database</li>
     </ul>
     <ul>
-        <h5>API utilisés: </h5>
-        <li>API de paiement Paypal</li>
-        <li>API de méteo OpenWeatherAPI</li>
-        <li>API Google maps</li>
-        <li>API d'une base de données des planètes existants API-le-systeme-solaire</li>
+        <h5>Used API: </h5>
+        <li>Paypal payment API</li>
+        <li>OpenWeatherAPI weather API</li>
+        <li>Google maps API</li>
+        <li>API-le-systeme-solaire which store datas about all planets</li>
     </ul>
     <ul>
-        <h5>Deploiement: </h5>
+        <h5>Deployment: </h5>
         <li>Heroku</li>
     </ul>
 </div>

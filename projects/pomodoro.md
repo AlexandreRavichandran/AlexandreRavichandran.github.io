@@ -2,28 +2,29 @@
 layout: project
 permalink: /pomodoro-timer
 title: Pomodoro-timer
-description: Minuteur pour l'application de la technique POMODORO
+description: Timer application which permits to do the POMODORO method, a method to upgrade focus and productivity
 image: pomodoro
 ---
 
-<h3>Présentation</h3>
-<p>Le projet Pomodoro-timer est un projet que j'ai réalisé afin de valider mes compétences en Javascript. La technique POMODORO est une méthode de travail permettant d'optimiser la concentration ainsi que la productivité. Cette méthode consiste à alterner une période de travail et une période de pause et ceci pendant un cycle donné. Ayant commencé à mettre en application cette méthode durant ma période d'apprentissage du développement web en autodidacte, j'ai décidé de créer moi-même un minuteur pomodoro personnalisable. Depuis sa création, j'utilise mon minuteur dès que je travaille sur mon projet personnel, afin d'améliorer ma productivité.</p>
-<h3>Liens</h3>
-<p>Lien du code source de ce projet: <a href="https://github.com/AlexandreRavichandran/pomodoro-timer" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
+<h3>Presentation</h3>
+<p>The pomodoro-timer is a project that I made to validate my Javascript skills. The POMODORO technique is a method which permits to upgrade focus and productivity. This method consists in alternating between work time and rest time, for a certain cycle. I have started to use this method when I was self-taught on web development, so I have decided to create a customizable pomodoro timer. Since its creation, I always use this timer when I work on a personnal project, to upgrade my productivity.</p>
+
+<h3>Link</h3>
+<p>Link of the project's source code: <a href="https://github.com/AlexandreRavichandran/pomodoro-timer" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
 <p>Lien du projet: <a href="https://pomodoro--timer.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
 <hr />
-<h3> Fonctionnalités </h3>
+<h3> Features </h3>
 <ul>
-    <li>Utilisation de Pomodoro dit 'standards'</li>
-    <li>Utilisation d'un pomodoro personnalisé, avec un choix du temps de travail, du temps de pause et du nombre de cycle</li>
-    <li>Suivi du déroulement du pomodoro, avec un affichage en direct du temps restant ainsi que le nombre de cycles restants</li>
-    <li>Suspension du temps du pomodoro, ou arrêt du pomodoro</li>
+    <li>Usage of "standard" pomodoros</li>
+    <li>Usage of custom pomodoro, with personnalized work time, rest time, and cycle</li>
+    <li>Monitoring the pomodoro process, with a live display of the remaining time and remaining cycle</li>
+    <li>Suspend the pomodoro time, or stop it</li>
 </ul>
 
-<h3> Technologies utilisés </h3>
+<h3> Used technologies </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end: </h5>
+        <h5>Integration/Front-end: </h5>
         <li>HTML/CSS</li>
         <li>Bootstrap</li>
         <li>Javascript</li>
@@ -33,7 +34,7 @@ image: pomodoro
         <li>PHP</li>
     </ul>
     <ul>
-        <h5>Deploiement: </h5>
+        <h5>Deployment: </h5>
         <li>Heroku</li>
     </ul>
 </div>

@@ -2,43 +2,44 @@
 layout: project
 permalink: /remind-me
 title: Remind me
-description: Application "Pense-bête" pour se constituer une liste de films à voir, livres à lire et musique à écouter.
+description: Reminder application to set a list of movie to watch, books to read and music to listen
 image: remindme
 
 ---
 
-<h3>Présentation</h3>
-<p>Ce projet est ma troisième expérience avec Symfony. Ce projet est une application permettant de se constituer une liste de films à regarder, de livres à lire et de musique à écouter, un peu comme un pense-bête. L'utilisateur pour s'inscrire et aura accès à une bibliothèque de films, livre et musique et pourra les ajouter à sa liste.</p>
-<p>Ce projet m'a permis de travailler sur la version API de Symfony, mais cela a également été l'occasion de me confronter à API Platform, un framework permettant de faciliter la création d'un API avec Symfony. J'ai également pu construire un front avec Jekyll, un générateur de site web statiques (D'ailleurs, le site où vous êtes actuellement a été construit avec Jekyll). Enfin, j'ai pu mettre en place la consommation de certains API officiels, comme celui de Deezer et celui de Google Books.</p>
-<p>Durant ce projet, j'ai pu apprendre le fonctionnement d'API Platform et également pu mettre en place des tests unitaires afin de vérifier le bon fonctionnement de chaque fonctionnalité de l'API. J'ai également tenu, comme <a href="/quiver"> mon précédent projet</a>, à respecter les standards de Symfony au niveau de la syntaxe.</p>
-<p>Côté front, comme tous mes précédents projets, j'ai passé peu de temps à la partie esthétique du site pour privilégier la mise en place des fonctionnalités.</p>
-<h3>Liens</h3>
-<p>Lien du code source de ce projet:</p>
+<h3>Presentation</h3>
+<p>This project is my third experience with Symfony. It's an application which permits to set a list of movies to watch, books to read and music to listen, like a reminder. The user can register and will have access to movie, music and book library and add them to their list</p>
+<p>This project allowed me to work on the API version of Symfony, but it was also an opportunity to discord API Platform, a Symfony based framework which permits to facilitate Symfony API creation. I also made the front-end page with Jekyll, a static website generator (by the way, the website where you are currently is made with Jekyll). Finally, I have implemented the consumption of external official API like Deezer and Google books.</p>
+
+<p>During this project, I learned a lot about the working of API Platform and I have also made unit tests to check the good working of each API features. I also wanted, like <a href="/quiver"> my previous project </a>, to respect Symfony syntax standards.</p>
+<p>On the front section, like my previous projects, I didn"t spend much time working on the design part of the website, but I was focused on the features.</p>
+<h3>Links</h3>
+<p>Link of the project's source codes:</p>
 <ul>
     <li>
-        <p><i class="icon solid fa-desktop"></i>  Partie front-end : <a href="https://github.com/AlexandreRavichandran/Remind-me-frontend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
+        <p><i class="icon solid fa-desktop"></i>  Front-end section : <a href="https://github.com/AlexandreRavichandran/Remind-me-frontend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
     </li>
     <li>
-        <p><i class="icon solid fa-server"></i> Partie back-end : <a href="https://github.com/AlexandreRavichandran/Remind-me-backend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
+        <p><i class="icon solid fa-server"></i> Back-end section : <a href="https://github.com/AlexandreRavichandran/Remind-me-backend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
     </li>
 </ul>
 
-<p>Lien du projet: <a href="https://alexandreravichandran.github.io/Remind-Me-frontend" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
-<p>Lien de la partie back du projet: <a href="https://remind-me-api.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p> 
+<p>Link of the project: <a href="https://alexandreravichandran.github.io/Remind-Me-frontend" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
+<p>Link of the project's API: <a href="https://remind-me-api.herokuapp.com/" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p> 
 
-<h3> Fonctionnalités </h3>
+<h3> Features </h3>
 <ul>
-    <li>Recherche d'un film, album, musique, livre</li>
-    <li>Accès en détail aux infos du média cherché (extrait d'une musique recherchée, résumé d'un film, résumé d'un livre...)
+    <li>Search a movie, book, album or music</li>
+    <li>Access to data of the searched media (extract of a music, summary of a movie...)
     </li>     
-    <li>Ajout/Suppression de médias dans sa liste personnelle de film, musique ou livre</li>
-    <li>Authentification/inscription via JWT</li>
+    <li>Manage user's personnal list of media (add a media, delete, reorder...)</li>
+    <li>Authentication/registration with JWT</li>
 </ul>
 
-<h3> Technologies utilisés </h3>
+<h3> Used technologies </h3>
 <div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
     <ul>
-        <h5>Intégration/Front-end</h5>
+        <h5>Integration/Front-end</h5>
         <li>Jekyll</li>
         <li>HTML/CSS</li>
         <li>Framework Bootstrap</li>
@@ -48,17 +49,17 @@ image: remindme
         <h5>Back-end:</h5>
         <li>Symfony 5</li>
         <li>API Platform</li>
-        <li>Base de donnée MySQL</li>
+        <li>MySQL database</li>
     </ul>
     <ul>
-        <h5>API utilisés: </h5>
-        <li>API de Deezer</li>
-        <li>API de Google Books</li>
-        <li>API de OMDB</li>
+        <h5>Used API: </h5>
+        <li>Deezer's API</li>
+        <li>Google Book's API</li>
+        <li>OMDB API</li>
     </ul>
     <ul>
-        <h5>Deploiement:</h5>
-        <li>Github-pages pour le front-end</li>
-        <li>Heroku pour le back-end </li>
+        <h5>Deployment:</h5>
+        <li>Github-pages for the front-end</li>
+        <li>Heroku for the back-end </li>
     </ul>
 </div>
