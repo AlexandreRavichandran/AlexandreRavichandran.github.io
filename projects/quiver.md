@@ -12,11 +12,11 @@ image: quiver
 <p>I was also focused on the syntax of my code to respect <a href="https://symfony.com/doc/current/best_practices.html">Symfony good practices</a> for example Yoda conditions, dependancy injections, variable names...</p>
 <h3>Links</h3>
 <p>Link of the project's source code: <a href="https://github.com/AlexandreRavichandran/Quiver" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>  
-<p>Link of the project: <a href="https://app-quiver.herokuapp.com" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
-<!-- <div style="display:flex;justify-content:center;margin-top:10px;margin-bottom:10px">
+
+<div style="display:flex;justify-content:center;margin-top:10px;margin-bottom:10px">
     <em style="margin-bottom:0px;margin-top:6px;margin-right:8px" class="fas fa-exclamation-triangle"></em>
     <p style="margin-bottom:0px;">Since Heroku has stopped his free tier, this application is no more available. </p>
-</div> -->
+</div>
 <hr />
 <h3> Features </h3>
 <ul>

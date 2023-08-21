@@ -27,20 +27,11 @@ image: oldix
     </ul>
 </div>
 <h3>Links</h3>
-<!-- <ul>
-    <li>
-        <p><i class="icon solid fa-desktop"></i>  Partie front-end : <a href="#" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
-    </li>
-    <li>
-        <p><i class="icon solid fa-server"></i> Partie back-end : <a href="#" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
-    </li>
-</ul> -->
-<!-- <p>Lien du projet: <a href="#" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p>
-<p>Lien de la partie back du projet: <a href="#" target="_blank" class="icon brands"><i style="font-size:30px" class="fas fa-rocket"></i></a></p> -->
-<!-- <div style="display:flex;justify-content:center;margin-top:10px;margin-bottom:10px">
+
+<div style="display:flex;justify-content:center;margin-top:10px;margin-bottom:10px">
     <em style="margin-bottom:0px;margin-top:6px;margin-right:8px" class="fas fa-exclamation-triangle"></em>
     <p style="margin-bottom:0px;">Since Heroku has stopped his free tier, this application is no more available. </p>
-</div> -->
+</div>
 <hr />
 <h3> Features </h3>
 <ul>

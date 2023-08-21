@@ -23,14 +23,14 @@ image: job-search-manager
     </li>
 </ul>
 
-<!-- <div>
+<div>
     <em class="fa fa-exclamation-triangle"></em>
     <p>Since Heroku has stopped his free tier, this application is no more available. </p>
-</div> -->
+</div>
 <hr />
 <h3> Features </h3>
 <ul>
-    <li>Import application data from application websites (Indeed, Welcome to the jungle, Pole emploi..)</li>
+    <li>Import application data from application websites (Indeed, Welcome to the jungle, Pole emploi..) with scrapping</li>
     <li>Change application status bu drag'n'drop</li>
     <li>Authentication/registration</li>
     <li>Add news to the application (planned meetings, notes)</li>

@@ -16,10 +16,10 @@ image: job-search-manager
 <h3>Links</h3>
 <p>Link of the project's source code: <a href="https://github.com/AlexandreRavichandran/fake-user-data-generator" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
 
-<!-- <div style="display:flex;justify-content:center;margin-top:10px;margin-bottom:10px">
+<div style="display:flex;justify-content:center;margin-top:10px;margin-bottom:10px">
     <em style="margin-bottom:0px;margin-top:6px;margin-right:8px" class="fas fa-exclamation-triangle"></em>
     <p style="margin-bottom:0px;">Since Heroku has stopped his free tier, this application is no more available. </p>
-</div> -->
+</div>
 <hr />
 <h3> Features </h3>
 <ul>
