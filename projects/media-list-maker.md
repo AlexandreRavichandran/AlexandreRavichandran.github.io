@@ -18,6 +18,9 @@ image: media-list-maker
 <p>Link of the project's source codes:</p>
 <ul>
     <li>
+        <p><i class="icon solid fa-desktop"></i>  Front-end section : <a href="https://github.com/AlexandreRavichandran/media-list-maker-frontend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
+    </li>
+    <li>
         <p><i class="icon solid fa-server"></i> Back-end section : <a href="https://github.com/AlexandreRavichandran/media-list-maker-backend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
     </li>
 </ul>
