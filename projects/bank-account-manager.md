@@ -1,6 +1,6 @@
 ---
 layout: project 
-permalink: /bank-account-manager
+permalink: 
 title: Bank account manager
 image: non 
 description: Application to manage your different bank accounts

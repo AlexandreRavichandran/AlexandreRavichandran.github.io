@@ -24,7 +24,7 @@ image: media-list-maker
         <p><i class="icon solid fa-server"></i> Back-end section : <a href="https://github.com/AlexandreRavichandran/media-list-maker-backend" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></p>
     </li>
 </ul>
-<p>There is also a Docker compose file to test this project in your computer (Docker required)</p>
+<p>There is also a Docker compose file to test this project in your computer (Docker required). You can find it <a href="https://github.com/AlexandreRavichandran/media-list-maker-backend/blob/master/service-parent/docker-compose.yml">here</a>.</p>
 <hr />
 <h3> Features </h3>
 <ul>
