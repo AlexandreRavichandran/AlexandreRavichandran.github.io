@@ -4189,6 +4189,11 @@ body.is-mobile.landing #footer {
 	font-weight: 600;
 }
 
+.language img,
+.language p {
+	align-content: center;
+}
+
 .projectDirectLinks:hover {
 	opacity: 0.4;
 }
