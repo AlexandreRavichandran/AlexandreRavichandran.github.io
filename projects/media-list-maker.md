@@ -7,6 +7,28 @@ description: Application to create a list of movie to watch and music to listen
 image: media-list-maker
 ---
 
+<ul style="display: flex;flex-wrap: wrap;justify-content: center;">
+    <li class="language">
+        <img src="/assets/images/skills/technologies/back-end/spring.svg" alt="">
+        <p>Spring boot 3.2</p>
+    </li>
+    <li class="language">
+        <img src="/assets/images/skills/technologies/back-end/postgresql.svg" alt="">
+        <p>PostgreSQL</p>
+    </li>
+    <li class="language">
+        <img src="/assets/images/skills/technologies/front-end/angular.svg" alt="">
+        <p>Angular 13</p>
+    </li>
+    <li class="language">
+        <img src="/assets/images/skills/technologies/environment/docker.svg" alt="">
+        <p>Docker</p>
+    </li>
+</ul>
+
+<p style="text-align:center;">External APIs: <a href="https://developers.deezer.com/guidelines/getting_started">Deezer API</a>, <a href="https://www.omdbapi.com">OMDB API</a></p>
+
+
 <h3>Presentation</h3>
 <p>This project is the 2nd version of the project <a href="/remind-me">Remind-me</a> that I did with Symfony and API Platform. Since I started to be interested about movies recently, and loving rap music since always, I decided to do this project again with a better architecture and better UI to use it to set me a list of movies to watch and musics to listen.</p>
 <p>This project was my second turning point on web development. I tried to master some of my skills and also tried to learn a lot of new things. It is also the first project where I took time to create a Figma before starting the front-end, and worked a lot of time to make a responsive and esthetical front-end. I also learned how to perform unit tests in angular, and upgrade my skills in NgRx (and learned also NgRx testing).</p>
@@ -34,26 +56,3 @@ image: media-list-maker
     <li>Authentication</li>
     <li>Getting random element in your list</li>
 </ul>
-
-<h3> Used technologies </h3>
-<div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
-    <ul>
-        <h5>Front-end: </h5>
-        <li>Angular</li>
-        <li>NgRx</li>
-    </ul>
-    <ul>
-        <h5>Back-end: </h5>
-        <li>Spring boot 3.2 with microservice architecture</li>
-        <li>PostgreSQL</li>
-    </ul>
-    <ul>
-        <h5>Used API: </h5>
-        <li>Deezer's API</li>
-        <li>OMDB API</li>
-    </ul>
-    <ul>
-        <h5>Deployment:</h5>
-        <li>Docker</li>
-    </ul>
-</div>

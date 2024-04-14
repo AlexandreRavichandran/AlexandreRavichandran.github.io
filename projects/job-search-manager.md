@@ -7,6 +7,29 @@ description: Application to manage your job researches
 image: job-search-manager
 ---
 
+<ul style="display: flex;flex-wrap: wrap;justify-content: center;">
+    <li class="language">
+        <img src="/assets/images/skills/technologies/back-end/spring.svg" alt="">
+        <p>Spring boot 2.7</p>
+    </li>
+    <li class="language">
+        <img src="/assets/images/skills/technologies/back-end/mysql.svg" alt="">
+        <p>MySQL</p>
+    </li>
+        <li class="language">
+        <img src="/assets/images/skills/technologies/front-end/angular.svg" alt="">
+        <p>Angular 13</p>
+    </li>
+        <li class="language">
+        <img src="/assets/images/skills/technologies/deployment/heroku.svg" alt="">
+        <p>Heroku</p>
+    </li>
+        <li class="language">
+        <img src="/assets/images/skills/technologies/deployment/surge.svg" alt="">
+        <p>Surge</p>
+    </li>
+</ul>
+
 <h3>Presentation</h3>
 <p>This project is a clone of the Pole Emploi's MEMO application. This application is useful to track your job applications, see which job you have applied, which job you have to relaunch, and add notes/actions that you made for these applications. You can also import applications datas such as title, description, company name.. directly from job search website like Indeed, Welcome to the jungle...</p>
 <p>This project was a turning point of my developper's path. Indeed, it's my first project since I learnt Java and Angular. Therefore, this project was a real challenge to me. The main advantage was the fact that Spring boot work almost like Symfony framework, so I was able to adapt to this new framework quickly. I was a little scared about going from PHP to Java (which is a typed language) but finally it was relatively easy for me to to the transition.</p>
@@ -36,23 +59,4 @@ image: job-search-manager
     <li>Add news to the application (planned meetings, notes)</li>
     <li>Archive an application, and see all archived applications</li>
 </ul>
-
-<h3> Used technologies </h3>
-<div style="display:flex;justify-content:space-around;flex-wrap:wrap;">
-    <ul>
-        <h5>Integration/Front-end: </h5>
-        <li>Angular 13</li>
-        <li>Sass</li>
-    </ul>
-    <ul>
-        <h5>Back-end: </h5>
-        <li>Spring boot 2.6</li>
-        <li>MySQL database</li>
-    </ul>
-    <ul>
-        <h5>Deployment: </h5>
-        <li>Surge for the front-end</li>
-        <li>Heroku for the back-end </li>
-    </ul>
-</div>
 
